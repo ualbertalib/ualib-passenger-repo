@@ -1,0 +1,6 @@
+[passenger]
+baseurl = http://repo.library.ualberta.ca/passenger/
+enabled = 1
+gpgcheck = 0
+name = Repo for Passenger
+
